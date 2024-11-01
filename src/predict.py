@@ -1,0 +1,1 @@
+print("Votre environnement n'est pas safe")

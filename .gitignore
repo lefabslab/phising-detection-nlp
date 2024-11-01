@@ -1,0 +1,21 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore environments virtuals
+venv/
+env/
+ENV/
+
+# Ignore configuration file specific to IDE
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore log files
+*.log
+
+# Ignore data filess
+data/raw/
+data/processed/
+
